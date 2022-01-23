@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there!🤜🤛 I´m Dufainder 😎
+
+
+Hello!🌎" I would like to tell you that I am looking for my first job💼 as a full stack developer,👨‍💻 in any of its Front-end or Back-end areas. Since I was a child I have loved knowledge,🤓 independently studying ✍️ new things, mathematics, physics, etc. That is why I feel capable of occupying any job as a developer, since I learn what I set out to do too quickly, regardless of the complexity of the subject. If you are interested in my profile, do not hesitate for a second and contact me 📪
 
 <!--
 **Dufainder/Dufainder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
