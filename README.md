@@ -14,7 +14,7 @@ Hello!🌎" I would like to tell you that I am looking for my first job💼 as a
 
 
 
-```		
+```Javascript		
 const Dufainder = {
   Soft Skills: ["I'm proactive", "Team Player", "Creative", "Hard-Working"], 
   Tech Skills: [Javascript, HTML, CSS, React, Redux, Nodejs, Sequelize, 
