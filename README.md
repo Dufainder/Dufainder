@@ -1,6 +1,6 @@
 ### Hi there!🤜🤛 I´m Dufainder 😎
 
-![Image](https://github.com/Dufainder/Dufainder/Definitivo.png)
+![Image](./Definitivo.png)
 
 
 
